@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">COMICON APP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="Stories_name">
+        <item>Ao-no-Exorcist-vol.1.pdf</item>
+        <item>BOKU_DAKE_GA_INAI_MACHI.pdf</item>
+        <item>CODE_GEASS.pdf</item>
+        <item>DR_STONE.pdf</item>
+        <item>HUNTER_X_HUNTER.pdf</item>
+        <item>KIMETSU_NO_YAIBA.pdf</item>
+        <item>MY_HERO_ACADEMIA.pdf</item>
+        <item>Naruto_-Sakura_s-Story-Naruto-Novels.pdf</item>
+        <item>Re_ZERO-Starting-Life-in-Another-World-Vol.-1.pdf</item>
+        <item>SHAMAN_KING.pdf</item>
+        <item>SHINGEKI_NO_KYOJIN.pdf</item>
+        <item>the_promised_neverland_1_1-converted.pdf</item>
+    </string-array>
+    <string-array name="Stories_name2">
+        <item>Arkham_City_The_Order_of_the_World.pdf</item>
+        <item>Batman_The_Adventures_Continue_Son_of_Ultron_Empire.pdf</item>
+        <item>Batman_114_2021_Digital_Zone_Empire.pdf</item>
+        <item>Crush_Lobo_05_of_08_2021_digital_Son_of_Ultron_Empire.pdf</item>
+        <item>DC_Horror_Presents_Soul_Plumber_01_of_06_2021_digital_Son_of_Ultron_Empire.pdf</item>
+        <item>DC_Horror_Presents_The_Conjuring_he Lover_05_of_05_2021_digital_Son_of_Ultron_Empire.pdf</item>
+        <item>Justice_League_Infinity.pdf</item>
+        <item>The_Joker_Presents_A_Puzzlebox_Directors_Cut_009_2021_digital_Son_of_Ultron_Empire.pdf</item>
+        <item>The_Nice_House_on_the_Lake_2021_Digital_Zone_Empire.pdf</item>
+        <item>The_Swamp_Thing_2021_digital_Son_of_Ultron_Empire.pdf</item>
+    </string-array>
+    <string-array name="Stories_name3">
+        <item>Avengers Tech On Avengers 2021 Digital Zone Empire.pdf</item>
+        <item>Captain Marvel Digital Zone Empire.pdf</item>
+        <item>Dark Ages 002 2021 Digital Zone Empire.pdf</item>
+        <item>Deadpool Infinity Comic.pdf</item>
+        <item>Eternals Celestia.pdf</item>
+        <item>Excalibur 2021 Digital  Zone Empire.pdf</item>
+        <item>Hellions  2021 Digital Zone Empire.pdf</item>
+        <item>New Mutants  2021 Digital  Zone Empire.pdf</item>
+        <item>Savage Avengers 2021 Digital Zone Empire.pdf</item>
+        <item>Spiderman Comic.pdf</item>
+    </string-array>
+</resources>

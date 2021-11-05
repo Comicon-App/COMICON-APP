@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978670812169",
+    "project_id": "drift-talk",
+    "storage_bucket": "drift-talk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978670812169:android:338ae2673679d288974cd8",
+        "android_client_info": {
+          "package_name": "com.example.drifttalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978670812169-ol8g6a5a89l6v8cn8osfbqa5t34688q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcCUrj87VPwMNt5-bccQI8q2PvzK7Ca0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978670812169-ol8g6a5a89l6v8cn8osfbqa5t34688q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

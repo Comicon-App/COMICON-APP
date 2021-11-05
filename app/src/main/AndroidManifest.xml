@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.drifttalk">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DRIFTTALK">
+        <activity
+            android:name=".Models.ANIME_HOME"
+            android:exported="false" />
+        <activity
+            android:name=".Models.MARVEL_HOME"
+            android:exported="false" />
+        <activity
+            android:name=".Models.DC_HOME"
+            android:exported="false" />
+        <activity
+            android:name=".Models.ANIME"
+            android:exported="false" />
+        <activity
+            android:name=".Models.MARVEL"
+            android:exported="false" />
+        <activity
+            android:name=".Models.DC"
+            android:exported="false" />
+        <activity
+            android:name=".Models.Comicon"
+            android:exported="false" />
+        <activity
+            android:name=".SettingsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GroupChatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChatDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SignInActivity"
+            android:exported="true"/>
+        <activity
+            android:name=".SignUpActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>
